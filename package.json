@@ -1,0 +1,16 @@
+{
+  "name": "tec-kode-bot",
+  "version": "2.0.0",
+  "description": "Esta é uma Base feita por Rony/Spectrum, link do canal dele: https://youtube.com/@Spectrum_bots",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "rony",
+  "license": "ISC",
+  "dependencies": {
+    "@whiskeysockets/baileys": "6.5.0",
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "pino": "^7.11.0"
+  }
+}
